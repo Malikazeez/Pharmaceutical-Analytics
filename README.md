@@ -51,7 +51,7 @@ Summarizes insights derived from the analysis and presents data-driven recommend
 ![Executive Summary](screenshots/Executive_summary.png)
 
 ### Sales Team Performance
-![Sales Team Performance](screenshots/Sales_team_performance.png)
+![Sales Team Performance](screenshots/Sales_team_Performance.png)
 
 ## 📈 Key Insights
 - Revenue experienced a significant increase in 2018 following the company’s expansion into the Polish market.
